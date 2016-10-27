@@ -1,0 +1,21 @@
+.titulo {
+	font-size: 1.3rem;
+	margin-left: 5%;
+	margin-right: auto;
+}
+
+.conteudo {
+	padding-right: 5%;
+	padding-left: 5%;
+}
+
+#button1 {
+	font-size: 1.3rem;
+	margin: 0;
+	background-color: orange;
+}
+
+#div{
+	display: block;
+	align-content: center;
+}
